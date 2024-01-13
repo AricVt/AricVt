@@ -25,7 +25,6 @@
 
 ### The Complete Python Bootcamp From Zero to Hero in Python
 - [Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
-- (Instructor: Jose Portilla)
 
 ## Work Experience
 

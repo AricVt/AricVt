@@ -3,6 +3,7 @@
 [Linkedin Profile](https://www.linkedin.com/in/aricvantroostenberghe/)
 
 ## Education
+
 ### Bachelor of Science (B.S.) Management with a Concentration in the Manufacturing Sector
 - University of Phonix (2014)
 
@@ -10,6 +11,7 @@
 - ITT Technical Institute (2000)
 
 ## Certifications / Classes
+
 ### Supervisor Leadership Skills Training
 - Michigan Manufacturing Technology Center (March 2017)
 
@@ -20,10 +22,13 @@
 - Michigan Manufacturing Technology Center (December 2011)
 
 ## In Process Certifications / Classes
+
 ### The Complete Python Bootcamp From Zero to Hero in Python
-- Udemy (Instructor: Jose Portilla)
+- [Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
+- (Instructor: Jose Portilla)
 
 ## Work Experience
+
 ### Manufacturing Supervisor - Assembly
 - MAG Automotive, LP (January 2001 - Present)
   - Manufacturing Supervisor (2017 - Present)

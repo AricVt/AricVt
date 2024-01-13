@@ -5,35 +5,35 @@
 ## Education
 
 ### Bachelor of Science (B.S.) Management with a Concentration in the Manufacturing Sector
-- University of Phonix (2014)
+University of Phonix (2014)
 
 ### Associate's of Applied Science Electronic Engineering
-- ITT Technical Institute (2000)
+ITT Technical Institute (2000)
 
 ## Certifications / Classes
 
 ### Supervisor Leadership Skills Training
-- Michigan Manufacturing Technology Center (March 2017)
+Michigan Manufacturing Technology Center (March 2017)
 
 ### Safety and Health General Industry - Level 1
-- MIOSHA Training Institute, Macomb Community College (March 2014)
+MIOSHA Training Institute, Macomb Community College (March 2014)
 
 ### LEAN Champion Training
-- Michigan Manufacturing Technology Center (December 2011)
+Michigan Manufacturing Technology Center (December 2011)
 
 ## In Process Certifications / Classes
 
 ### The Complete Python Bootcamp From Zero to Hero in Python
-- [Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
+[Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## Work Experience
 
 ### Manufacturing Supervisor - Assembly
-- MAG Automotive, LP (January 2001 - Present)
-  - Manufacturing Supervisor (2017 - Present)
-  - Machine Builder Leader (2008 - 2017)
-  - Machine Builder (2004 - 2008)
-  - Machine Builder Apprentice (2001 - 2004)
+MAG Automotive, LP (January 2001 - Present)
+- Manufacturing Supervisor (2017 - Present)
+- Machine Builder Leader (2008 - 2017)
+- Machine Builder (2004 - 2008)
+- Machine Builder Apprentice (2001 - 2004)
 
 ## Projects
 

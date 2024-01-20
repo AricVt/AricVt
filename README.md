@@ -13,8 +13,10 @@ ITT Technical Institute (2000)
 ## Certifications / Classes
 
 ### [PCEP-30-02] PCEP – Certified Entry-Level Python Programmer
-OpenEDG Python Institute
+OpenEDG Python Institute (January 2024)
+
 [Digital Certification](https://verify.openedg.org/?id=Z2S3.Lq8w.XsPA)
+
 Certification code: Z2S3.Lq8w.XsPA
 
 ### Supervisor Leadership Skills Training

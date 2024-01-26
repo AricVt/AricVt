@@ -19,6 +19,13 @@ OpenEDG Python Institute (January 2024)
 
 Certification code: Z2S3.Lq8w.XsPA
 
+### The Complete Python Bootcamp From Zero to Hero in Python
+Udemy (January 2024)
+
+[Digital Certification](https://www.udemy.com/certificate/UC-a5eb4fa3-3d9f-4d1d-ba50-c655a2da5227/)
+
+Certification code: UC-a5eb4fa3-3d9f-4d1d-ba50-c655a2da5227
+
 ### Supervisor Leadership Skills Training
 Michigan Manufacturing Technology Center (March 2017)
 

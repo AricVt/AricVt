@@ -10,7 +10,7 @@ University of Phonix (2014)
 ### Associate's of Applied Science Electronic Engineering
 ITT Technical Institute (2000)
 
-## Certifications / Classes
+## Certifications and Courses
 
 ### [PCEP-30-02] PCEP – Certified Entry-Level Python Programmer
 OpenEDG Python Institute (January 2024)
@@ -37,8 +37,9 @@ Michigan Manufacturing Technology Center (December 2011)
 
 ## In Process Certifications / Classes
 
-### The Complete Python Bootcamp From Zero to Hero in Python
-[Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
+### [PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap))
+
+### [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/?kw=python+for+machin&src=sac)
 
 ## Work Experience
 
@@ -51,7 +52,8 @@ MAG Automotive, LP (January 2001 - Present)
 
 ## Projects
 
-
+### [Ebay Price Tracker](https://github.com/AricVt/Ebay-Price-Tracker)
+Capstone project for Udemy course [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
 
 <!--

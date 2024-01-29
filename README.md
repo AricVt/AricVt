@@ -42,7 +42,7 @@ Capstone project for Udemy course [The Complete Python Bootcamp From Zero to Her
 
 ## In Process Certifications / Classes
 
-### [PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap))
+### [PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)
 
 ### [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/?kw=python+for+machin&src=sac)
 

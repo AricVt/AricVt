@@ -35,6 +35,11 @@ MIOSHA Training Institute, Macomb Community College (March 2014)
 ### LEAN Champion Training
 Michigan Manufacturing Technology Center (December 2011)
 
+## Projects
+
+### [Ebay Price Tracker](https://github.com/AricVt/Ebay-Price-Tracker)
+Capstone project for Udemy course [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
+
 ## In Process Certifications / Classes
 
 ### [PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap))
@@ -50,10 +55,6 @@ MAG Automotive, LP (January 2001 - Present)
 - Machine Builder (2004 - 2008)
 - Machine Builder Apprentice (2001 - 2004)
 
-## Projects
-
-### [Ebay Price Tracker](https://github.com/AricVt/Ebay-Price-Tracker)
-Capstone project for Udemy course [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
 
 <!--

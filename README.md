@@ -12,6 +12,13 @@ ITT Technical Institute (2000)
 
 ## Certifications and Courses
 
+### [PCAP-31-03] PCAP – Certified Associate in Python Programming
+OpenEDG Python Institute (February 2024)
+
+[Digital Certification](https://verify.openedg.org/?id=R8uo.xNTo.vSxo)
+
+Certification code: R8uo.xNTo.vSxo
+
 ### [PCEP-30-02] PCEP – Certified Entry-Level Python Programmer
 OpenEDG Python Institute (January 2024)
 
@@ -41,8 +48,6 @@ Michigan Manufacturing Technology Center (December 2011)
 Capstone project for Udemy course [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## In Process Certifications / Classes
-
-### [PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)
 
 ### [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/?kw=python+for+machin&src=sac)
 

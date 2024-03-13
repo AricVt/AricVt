@@ -33,6 +33,13 @@ Udemy (January 2024)
 
 Certification code: UC-a5eb4fa3-3d9f-4d1d-ba50-c655a2da5227
 
+### The Linux Command Line Bootcamp: Beginner To Power User
+Udemy (March 2024)
+
+[Digital Certification](https://www.udemy.com/certificate/UC-f1203605-5851-48ac-8b9f-50aab59c50d9/)
+
+Certification code: UC-f1203605-5851-48ac-8b9f-50aab59c50d9
+
 ### Supervisor Leadership Skills Training
 Michigan Manufacturing Technology Center (March 2017)
 

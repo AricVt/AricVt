@@ -35,10 +35,10 @@ Certification code: UC-a5eb4fa3-3d9f-4d1d-ba50-c655a2da5227
 
 ### Master Git and GitHub in 5 Days: Go from Zero to Hero
 Udemy (March 2024)
+
 [Digital Certification](https://www.udemy.com/certificate/UC-912ab750-5c1c-485a-92f9-42f0830c296e/)
 
 Certification code: UC-912ab750-5c1c-485a-92f9-42f0830c296e
-
 
 ### The Linux Command Line Bootcamp: Beginner To Power User
 Udemy (March 2024)

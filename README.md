@@ -40,6 +40,13 @@ Udemy (March 2024)
 
 Certification code: UC-912ab750-5c1c-485a-92f9-42f0830c296e
 
+### The Complete SQL Bootcamp: Go from Zero to Hero
+Udemy (April 2024)
+
+[Digital Certification](https://www.udemy.com/certificate/UC-e4e254c1-9f60-4069-8b52-fe9f045e3137/)
+
+Certification code: UUC-e4e254c1-9f60-4069-8b52-fe9f045e3137
+
 ### The Linux Command Line Bootcamp: Beginner To Power User
 Udemy (March 2024)
 

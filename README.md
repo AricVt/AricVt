@@ -26,6 +26,13 @@ OpenEDG Python Institute (January 2024)
 
 Certification code: Z2S3.Lq8w.XsPA
 
+### Python for Machine Learning & Data Science Masterclass
+Udemy (June 2024)
+
+[Digital Certification](https://www.udemy.com/certificate/UC-613ea640-9960-410f-84d7-ec8cc48140b3/)
+
+Certification code: UC-613ea640-9960-410f-84d7-ec8cc48140b3
+
 ### The Complete Python Bootcamp From Zero to Hero in Python
 Udemy (January 2024)
 
